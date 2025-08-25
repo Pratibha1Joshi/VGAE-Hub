@@ -1,5 +1,4 @@
-**Add these libraries in the google colab and then run the code
-**
+Add these libraries in the google colab and then run the code
 
 !pip install torch-geometric
 
